@@ -24,5 +24,9 @@
 - ✉️ **E-mail:** [tiagoalmeidar813@gmail.com](mailto:tiagoalmeidar813@gmail.com)
 
 
+## 📊 Minhas Estatísticas
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiago-HW&show_icons=true&theme=radical" alt="Estatísticas" />
+</div>
 
